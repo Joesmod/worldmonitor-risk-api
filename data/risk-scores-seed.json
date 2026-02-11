@@ -1,0 +1,22 @@
+[
+  {"country":"Afghanistan","iso":"AFG","cii_score":89,"trend":"rising","political":92,"economic":85,"security":95,"social":84,"factors":["Taliban governance instability","Economic collapse","Humanitarian crisis"]},
+  {"country":"Ukraine","iso":"UKR","cii_score":87,"trend":"rising","political":78,"economic":82,"security":96,"social":80,"factors":["Active conflict with Russia","Infrastructure damage","Displacement crisis"]},
+  {"country":"Sudan","iso":"SDN","cii_score":91,"trend":"critical","political":90,"economic":88,"security":95,"social":89,"factors":["RSF-SAF civil war","Humanitarian emergency","Mass displacement"]},
+  {"country":"Myanmar","iso":"MMR","cii_score":85,"trend":"rising","political":88,"economic":75,"security":90,"social":82,"factors":["Military junta resistance","Ethnic conflicts","Economic sanctions"]},
+  {"country":"Syria","iso":"SYR","cii_score":83,"trend":"stable","political":85,"economic":88,"security":80,"social":78,"factors":["Post-conflict instability","Economic sanctions","Refugee crisis"]},
+  {"country":"Yemen","iso":"YEM","cii_score":82,"trend":"stable","political":80,"economic":85,"security":82,"social":79,"factors":["Houthi conflict","Humanitarian crisis","Economic collapse"]},
+  {"country":"Somalia","iso":"SOM","cii_score":84,"trend":"rising","political":82,"economic":80,"security":90,"social":78,"factors":["Al-Shabaab insurgency","Clan conflicts","Drought"]},
+  {"country":"Democratic Republic of Congo","iso":"COD","cii_score":79,"trend":"rising","political":75,"economic":72,"security":88,"social":76,"factors":["M23 rebellion","Resource conflicts","Ebola outbreaks"]},
+  {"country":"Libya","iso":"LBY","cii_score":72,"trend":"stable","political":78,"economic":65,"security":75,"social":68,"factors":["Dual government","Militia fragmentation","Oil disputes"]},
+  {"country":"Haiti","iso":"HTI","cii_score":78,"trend":"rising","political":82,"economic":80,"security":76,"social":74,"factors":["Gang violence","Political vacuum","Economic crisis"]},
+  {"country":"Ethiopia","iso":"ETH","cii_score":71,"trend":"declining","political":72,"economic":65,"security":74,"social":70,"factors":["Post-Tigray tensions","Ethnic federalism","Economic reform"]},
+  {"country":"Iraq","iso":"IRQ","cii_score":65,"trend":"stable","political":68,"economic":60,"security":70,"social":62,"factors":["Militia influence","Oil dependency","Kurdish tensions"]},
+  {"country":"Pakistan","iso":"PAK","cii_score":68,"trend":"rising","political":72,"economic":70,"security":65,"social":63,"factors":["Political instability","Economic crisis","TTP insurgency"]},
+  {"country":"Nigeria","iso":"NGA","cii_score":67,"trend":"stable","political":65,"economic":62,"security":72,"social":66,"factors":["Boko Haram","Banditry","Election tensions"]},
+  {"country":"Russia","iso":"RUS","cii_score":62,"trend":"rising","political":70,"economic":58,"security":55,"social":60,"factors":["Ukraine war costs","Sanctions impact","Wagner aftermath"]},
+  {"country":"China","iso":"CHN","cii_score":45,"trend":"stable","political":55,"economic":42,"security":35,"social":48,"factors":["Economic slowdown","Taiwan tensions","Xinjiang/HK issues"]},
+  {"country":"Iran","iso":"IRN","cii_score":64,"trend":"stable","political":68,"economic":65,"security":58,"social":62,"factors":["Protest movements","Nuclear tensions","Sanctions"]},
+  {"country":"Venezuela","iso":"VEN","cii_score":66,"trend":"stable","political":72,"economic":70,"security":55,"social":64,"factors":["Authoritarian governance","Economic crisis","Migration"]},
+  {"country":"North Korea","iso":"PRK","cii_score":58,"trend":"stable","political":45,"economic":72,"security":50,"social":65,"factors":["Nuclear program","Economic isolation","Human rights"]},
+  {"country":"United States","iso":"USA","cii_score":38,"trend":"rising","political":48,"economic":30,"security":25,"social":42,"factors":["Political polarization","Election tensions","Social division"]}
+]
